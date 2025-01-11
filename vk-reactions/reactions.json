@@ -1,0 +1,283 @@
+{
+  "response": {
+    "version": 5,
+    "assets": {
+      "❤️": {
+        "reaction_id": 1,
+        "links": {
+          "big_animation": "https://sun154-1.userapi.com/5Zym-Lzh-ZQOnFKULuNDdLmKjvYPNv7_EPuSew/YT4MUnfJXjo.json",
+          "small_animation": "https://sun154-1.userapi.com/GUJCLvT5bq58oAvXQ61EXz1BvYsKbYfON0G-rQ/ILvJGBV45VE.json",
+          "static": "https://sun154-2.userapi.com/NRmhCK9GMbm4L_tnd3m-DmKqMUq5u26FI8CQKw/ey7FdcDQ9pk.svg"
+        }
+      },
+      "🔥": {
+        "reaction_id": 2,
+        "links": {
+          "big_animation": "https://sun154-1.userapi.com/QQV_sGdaLsGO_FLwsAVMYTdkHvKkCy7422p4Bg/gfyhDtVFcfs.json",
+          "small_animation": "https://sun154-1.userapi.com/o8rnFmeYpFuw5iVmKf337_ao5Me_GtexcPhw5w/TAAqt7M82Ag.json",
+          "static": "https://sun154-2.userapi.com/gd45ChvjH8HrIdKFufc1xwnIt80fwVzTgg9zSg/h7-91FsNE78.svg"
+        }
+      },
+      "😂": {
+        "reaction_id": 3,
+        "links": {
+          "big_animation": "https://sun154-1.userapi.com/vq6hUR4LeheVZSfBWNtnGPJEsTewUdUISoWMww/yzTrOcxHM90.json",
+          "small_animation": "https://sun154-2.userapi.com/cM8sy8EjhnL9GR8_WTuP5NRNcxH5kv43vC0z6A/yQCpv2722jY.json",
+          "static": "https://sun154-2.userapi.com/BaziGT1vk2J08yCluCDTKROsWXA8FL6RCtZUnA/5mxaqIjEj6M.svg"
+        }
+      },
+      "👍": {
+        "reaction_id": 4,
+        "links": {
+          "big_animation": "https://sun154-1.userapi.com/g-JZxZPEOr0l0hXjENBma2fQAaqwlJg66_WFAA/ExDGSi96bSw.json",
+          "small_animation": "https://sun154-2.userapi.com/OqcZllsmabSSEzgqZhQwwI0N7mThtkk-V-Dahg/D2x98Hdib7g.json",
+          "static": "https://sun154-1.userapi.com/qBv9RxWNVrTj3Lsl1-Jouviaf1hnfrMqD3cp7g/u77ZUh2chcE.svg"
+        }
+      },
+      "💩": {
+        "reaction_id": 5,
+        "links": {
+          "big_animation": "https://sun154-1.userapi.com/vX3G0iofoA2z7FrYhdDg4l1fvuCCyCt4F9bJuQ/1hvPx6PCKh8.json",
+          "small_animation": "https://sun154-1.userapi.com/jSQhZxUPdbshzIhzNEScxTkvxn1qhnbvH66Xeg/pe5jQoueTCs.json",
+          "static": "https://sun154-2.userapi.com/r3DfJZ8qyBS4PbPbqvS6t5-PxmDDolrdX3zFLw/fhBvIcifNk4.svg"
+        }
+      },
+      "❓": {
+        "reaction_id": 6,
+        "links": {
+          "big_animation": "https://sun154-2.userapi.com/jGGNbwSEdd8aL9Z3qwpUtN-TvolxCBVnpU4b0A/RrNl-3r8y3c.json",
+          "small_animation": "https://sun154-1.userapi.com/mbcpgyepOFof83YnsM0iAOp-CRi4Y3Mrlv1jTg/2r1MRK6mZlw.json",
+          "static": "https://sun154-1.userapi.com/lxA0NbD4MMXbDLB0S1wgzPawr9EhdSLsV-H-mw/NQm5IQqLX0E.svg"
+        }
+      },
+      "😭": {
+        "reaction_id": 7,
+        "links": {
+          "big_animation": "https://sun154-2.userapi.com/kOiZ5_rrwypy24jlD4b_kAc9zo-7R1NLEwBlOw/7jwgUWSpXfQ.json",
+          "small_animation": "https://sun154-1.userapi.com/vGft4ml7wbSLGE1E6q9ulPdfqR3tFke_KZ90VQ/YFngMtDe5og.json",
+          "static": "https://sun154-2.userapi.com/QSunGxbPfQYlxlPbMjkgByZ5bshElsITIomyqw/YzPhUDAC2-4.svg"
+        }
+      },
+      "😡": {
+        "reaction_id": 8,
+        "links": {
+          "big_animation": "https://sun154-1.userapi.com/mEf1Qc7D7uGZwMmyOZDk8VX7YLq3umiLKI7ocQ/PDp7nVcUCAw.json",
+          "small_animation": "https://sun154-1.userapi.com/xAxsR8R4CXa-pv1wiAlrXhsQ6ayxNySD0vjzVg/C7WDq_bvyY4.json",
+          "static": "https://sun154-2.userapi.com/TPjMyd7m9Ad4mERZj-kqHMZHE1Emk0npb3GDpg/o1iLKTi5Xrk.svg"
+        }
+      },
+      "👎": {
+        "reaction_id": 9,
+        "links": {
+          "big_animation": "https://sun154-2.userapi.com/kMqtEDgEGtPFcl0HtU43_9eCA8esa0jZUqhT7g/t1R6U4Hq1Y8.json",
+          "small_animation": "https://sun154-2.userapi.com/AvLDqKyaVXMLM_OHSOQVEEckdp3tr89JKI5Mkg/MWglW6R3jRM.json",
+          "static": "https://sun154-1.userapi.com/TU2ZMIjrjc-N6yF_xXb5xd93-uKYBqlx9e6_0A/m3kEEBj8eFM.svg"
+        }
+      },
+      "👌": {
+        "reaction_id": 10,
+        "links": {
+          "big_animation": "https://sun154-2.userapi.com/0GOAjr1xoeu-zs9nGlrCC3cyVaMhOZpbDL9g8w/IR6QUPmKkx4.json",
+          "small_animation": "https://sun154-1.userapi.com/OE22rg8MyKrePKP5W_0wcH374VmnHjCj0YCbxQ/KDM6FS889ZQ.json",
+          "static": "https://sun154-2.userapi.com/Ldm69AdBd-I9RcLW96Ro3qDwoEtSOCGUxENJzA/YXXiO6skMSs.svg"
+        }
+      },
+      "😄": {
+        "reaction_id": 11,
+        "links": {
+          "big_animation": "https://sun154-1.userapi.com/LMdOlrEl7FYb23NSJ1i-lyfoYtcOck99djwP9Q/-R0-_5w4Haw.json",
+          "small_animation": "https://sun154-1.userapi.com/QUI2JERydMfpDIGRD7qouLvJlnrZpaNdqknAFg/ZHgPgq0uhWY.json",
+          "static": "https://sun154-1.userapi.com/laIRJ-IeAecPdjhCKvqBKApw2fBfgV9JhyfPYA/7VXdr3lXmNc.svg"
+        }
+      },
+      "🤔": {
+        "reaction_id": 12,
+        "links": {
+          "big_animation": "https://sun154-2.userapi.com/rcyIbMqcExip5AvVaA92RqH2q6ppVWmud1OJEw/8dgcqnvYzNg.json",
+          "small_animation": "https://sun154-1.userapi.com/6AYQ76aSx8RpDzLQdQ95phhM10Shq3GV8NiP4g/ve5gO8EWxt0.json",
+          "static": "https://sun154-2.userapi.com/KSymcxBZ4eHYFS4vNW7ycD6prCVqriKl8vzSNA/P8jIivDmi5s.svg"
+        }
+      },
+      "🙏": {
+        "reaction_id": 13,
+        "links": {
+          "big_animation": "https://sun154-2.userapi.com/qRfmABrQihkLKLYSOQ9nTx-SGGWoC2REDT_EHQ/dV8-EWHzYpc.json",
+          "small_animation": "https://sun154-1.userapi.com/4AjAdL88zZ8eSmz-xmuMaKjpKBaeAB7HqaIx2A/rxPclds2WQg.json",
+          "static": "https://sun154-2.userapi.com/IK30QM__71p9IjQJY9BCWoes4WaVPoyxkfeIrw/BkH3f7shW80.svg"
+        }
+      },
+      "😘": {
+        "reaction_id": 14,
+        "links": {
+          "big_animation": "https://sun154-1.userapi.com/1LRMKnEcPjMIlgV2r3mdA84Xm02on0kxSiwkWg/sAW4aRg7760.json",
+          "small_animation": "https://sun154-1.userapi.com/hQ--lqztWyjcZrDQDlwncah5icb2SdEFB0RMfA/b6s3yBeFKfo.json",
+          "static": "https://sun154-2.userapi.com/bHvLn3nWdU3bO0WauOVd7HV3Z-HV0AIskb8hPQ/s8Vit-D_iyQ.svg"
+        }
+      },
+      "😍": {
+        "reaction_id": 15,
+        "links": {
+          "big_animation": "https://sun154-2.userapi.com/K92I9iHFqXHav307BXUXMtTsT2q930DTRbTNvg/Jn4TVB4IvsI.json",
+          "small_animation": "https://sun154-2.userapi.com/N5LtXpXwN_I1PW9M-kFmuf08XSiEW8-y6GbE9w/GbDbGjzPrI8.json",
+          "static": "https://sun154-2.userapi.com/YBFkqooRRMpfW8Pne9OkbhtsrpjaIWHVq-0czA/L4ODHzgsle4.svg"
+        }
+      },
+      "🎉": {
+        "reaction_id": 16,
+        "links": {
+          "big_animation": "https://sun154-2.userapi.com/y-noHIyz59FBs1NdZzWljW1hnUJ_kdNgU8JQjQ/xhHpS9gVekc.json",
+          "small_animation": "https://sun154-2.userapi.com/yoyytvjl8YkUJ8jlMW2KRTT6ORgHTVmoyuEJdg/6zIgYtgAjY4.json",
+          "static": "https://sun154-2.userapi.com/EH9aLLebpv70dY3NOJI4V-MjrHUAYhQ9UbMmuw/Lpj6qctC57Y.svg"
+        }
+      },
+      "🤡": {
+        "reaction_id": 17,
+        "links": {
+          "small_animation": "https://sun154-2.userapi.com/NDCGZY9Y-3-lORtnU6YsEv9F6RkZMvZpyS7Oag/18P1zN5w50Q.json"
+        }
+      },
+      "🤝": {
+        "reaction_id": 18,
+        "links": {
+          "small_animation": "https://sun154-2.userapi.com/a5IMW0Pwe62e6frI3OpeqOQ2TorRVVTQnbAJ3A/lh1HS4x1uNY.json"
+        }
+      },
+      "😱": {
+        "reaction_id": 19,
+        "links": {
+          "small_animation": "https://sun154-2.userapi.com/A3AzGc-r3_w_2EadD_J7ydDrYplC7xgmJR9OLw/yNPAS8CuDzM.json"
+        }
+      },
+      "🤬": {
+        "reaction_id": 20,
+        "links": {
+          "small_animation": "https://sun154-1.userapi.com/ari17EkbEEpbu3iuA3kmkhLJ31cSDIaIbp3zSQ/RSu9vN3cIZs.json"
+        }
+      },
+      "😐": {
+        "reaction_id": 21,
+        "links": {
+          "small_animation": "https://sun154-2.userapi.com/UBM5KMNB-xFiRwo0-cnHtaCphLjOiEt2oncDsg/J-diy6VhjLM.json"
+        }
+      },
+      "🗿": {
+        "reaction_id": 22,
+        "links": {
+          "small_animation": "https://sun154-1.userapi.com/7rS3Ley3GB8nUJDoPDkyu7F7YOuwS0t9jYFtoA/5FZ9WxaFD8w.json"
+        }
+      },
+      "😈": {
+        "reaction_id": 23,
+        "links": {
+          "small_animation": "https://sun154-2.userapi.com/WQIX6BbiC2Ie1Q4MJ9lRZUj91OjzkU3QnoSPRw/DTbuOunkhDc.json"
+        }
+      },
+      "🫡": {
+        "reaction_id": 24,
+        "links": {
+          "small_animation": "https://sun154-1.userapi.com/FpdMJDZhs2fFKeKD4TZ39mPwyvIZZHNLBt8aPQ/boqIVnUKP5E.json"
+        }
+      },
+      "😒": {
+        "reaction_id": 25,
+        "links": {
+          "small_animation": "https://sun154-2.userapi.com/lw48LaD_DtaD2dg_A6RI1PZ9QGMdT55QRYfaig/vL8KDAEAfPs.json"
+        }
+      },
+      "💔": {
+        "reaction_id": 26,
+        "links": {
+          "small_animation": "https://sun154-2.userapi.com/XO7Im4ZiteIy69ydHmM11nDpe1HP6E0Yq5nHMA/etCBOpVANa0.json"
+        }
+      },
+      "😎": {
+        "reaction_id": 27,
+        "links": {
+          "small_animation": "https://sun154-1.userapi.com/cdTfz93qmQtCktv0u5w8kucLNBvHHjGYImhysw/aa2DZFpimk8.json"
+        }
+      },
+      "⚡": {
+        "reaction_id": 28,
+        "links": {
+          "small_animation": "https://sun154-1.userapi.com/oPeA04xLbYI6m5x-wymxhMjlcuYrg-Y42R7SSg/tCHnNu3bub0.json"
+        }
+      },
+      "👏": {
+        "reaction_id": 29,
+        "links": {
+          "small_animation": "https://sun154-1.userapi.com/6zs5Q72wvvE5s8Y5_8muDAmsE8kvhyADYe3LTw/XJC_uyypz_c.json"
+        }
+      },
+      "🤮": {
+        "reaction_id": 30,
+        "links": {
+          "small_animation": "https://sun154-1.userapi.com/l339pmsh4glMXuWizxefR75n_etcNZO0YEI1_A/emeiFlC0ji0.json"
+        }
+      },
+      "😢": {
+        "reaction_id": 31,
+        "links": {
+          "small_animation": "https://sun154-2.userapi.com/k-BafLEISP49j4LrZYKv8WLyVV1RKHLfgcmX_A/xWARLDqX9fo.json"
+        }
+      },
+      "😲": {
+        "reaction_id": 32,
+        "links": {
+          "small_animation": "https://sun154-2.userapi.com/-1ox1OfO_Sg27pll3EF9PksvtXiet74tFNwL2Q/AWahEaEj3iQ.json"
+        }
+      },
+      "👀": {
+        "reaction_id": 33,
+        "links": {
+          "small_animation": "https://sun154-1.userapi.com/Pqs4TDeZMo_Qs15HiwSl00FNNlV0sq0H3tm8oQ/ZSXL9Oax_kk.json"
+        }
+      },
+      "🌚": {
+        "reaction_id": 34,
+        "links": {
+          "small_animation": "https://sun154-1.userapi.com/b-e8oJkxvUlFW9PppB3FkYfUMqaX799_P3qy_Q/MA_gsjG7Wdw.json"
+        }
+      },
+      "💯": {
+        "reaction_id": 35,
+        "links": {
+          "small_animation": "https://sun154-2.userapi.com/pEwelRfG9uTFJ8hEjlWbTBD21DyvTRf1Ly2O-w/vRfhmL2yKGU.json"
+        }
+      },
+      "💅": {
+        "reaction_id": 36,
+        "links": {
+          "small_animation": "https://sun154-2.userapi.com/4RxN4mIlpw_uRqCEHWapvyNSJ1ZjluP_ZYJ7oQ/VeNLKZ3Hel8.json"
+        }
+      },
+      "🤯": {
+        "reaction_id": 37,
+        "links": {
+          "small_animation": "https://sun154-1.userapi.com/ixO-oCUJv04gkM6vA26iIxQQwu8wotPOP-ER9Q/n8BFGNTCTis.json"
+        }
+      },
+      "😴": {
+        "reaction_id": 38,
+        "links": {
+          "small_animation": "https://sun154-1.userapi.com/FlL9eMrxh-j0_5vZ_G62wp4du3Aex_B5dig8xA/D_7Z1-L69-0.json"
+        }
+      },
+      "✅": {
+        "reaction_id": 39,
+        "links": {
+          "small_animation": "https://sun154-1.userapi.com/2wthh3Z4dIPTMVr1CJZq7Fx0mZR4pTQlX5tMEg/dzFO8vCCYxs.json"
+        }
+      },
+      "🏆": {
+        "reaction_id": 40,
+        "links": {
+          "small_animation": "https://sun154-2.userapi.com/1nTsLurv3nOqbASNRdmhG-Jq3u2HtAuwLhHmuA/ul95TGX70VM.json"
+        }
+      }
+    },
+    "reaction_ids": [
+      1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
+      22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40
+    ]
+  }
+}

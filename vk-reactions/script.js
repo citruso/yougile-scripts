@@ -87,10 +87,8 @@ class Overlay {
     }
 
     await new Promise((resolve) => {
-      setTimeout(() => {
-        this.element.style.opacity = "0"
-        resolve(undefined)
-      }, this.hidingDelay)
+      this.element.style.opacity = "0"
+      setTimeout(resolve, this.hidingDelay)
     })
   }
 
